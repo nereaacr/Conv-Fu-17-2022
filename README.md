@@ -3,4 +3,4 @@ En este repositorio se encuentra el RScript empleado para resolver el ejercicio 
  - out donde se encuentra:
 	(1) un fichero txt que contiene los datos de fenotipos extraidos del fichero Series Matrix File, 
 	(2) el dendograma en formato png y 
-	(3) el análisis de componentes principales.
+	(3) el análisis de componentes principales en formato png. 
